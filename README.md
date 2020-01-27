@@ -6,3 +6,7 @@ in this repo i save links and refrences to blogs and other repos that have ideas
 <a href="https://github.com/florinpop17/app-ideas"> A repo with a collection of app ideas with description and show cases</a><br><br>
 
 <a href="https://www.golangprograms.com/dice-game-in-react-js.html"> nice blog with couple of dummy projects to practice react</a>
+
+<a href="https://www.udemy.com/course/the-react-practice-course-learn-by-building-projects/"> good course for more practicing react (the projects done in this course will be great to redo them to learn other front end framworks and practice them)</a>
+
+
